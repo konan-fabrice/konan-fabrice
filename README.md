@@ -1,5 +1,5 @@
 # Hi 👀, I'm Fabrice N'guessan
-[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/sovmulax.svg)](https://user-badge.committers.top/ivory_coast_private/sovmulax) ![X (formerly Twitter) Follow]([https://img.shields.io/twitter/follow/sovmulax](https://www.linkedin.com/in/koum%C3%A9-aime-fabrice-konan-275a99201/))
+[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/sovmulax.svg)](https://user-badge.committers.top/ivory_coast_private/sovmulax) 275a99201/))
 
 ## 💬 About me : All I want is to collect skills
 ## Languages and Tools
