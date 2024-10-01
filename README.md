@@ -1,5 +1,5 @@
 # Hi 👀, I'm Fabrice N'guessan
-[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/sovmulax.svg)](https://user-badge.committers.top/ivory_coast_private/sovmulax) 275a99201/))
+[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/sovmulax.svg)](https://user-badge.committers.top/ivory_coast_private/sovmulax,linkedin) 275a99201/))
 
 ## 💬 About me : All I want is to collect skills
 ## Languages and Tools
